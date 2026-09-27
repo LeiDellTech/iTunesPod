@@ -32,9 +32,9 @@
 
 ### 安装
 
-从 [GitHub Releases](https://github.com/LeiDellTech/iTunesPod/releases) 下载 Windows x64 安装程序。安装程序包含 .NET Desktop Runtime 与所需媒体工具，无需单独安装运行环境。
+从 [GitHub Releases](https://github.com/LeiDellTech/iTunesPod/releases) 下载 **iTunesPod 0.4.0 Beta** Windows x64 安装程序。安装程序包含 .NET Desktop Runtime 与所需媒体工具，无需单独安装运行环境；发布页同时提供 SHA-256 校验文件。
 
-> 仓库目前处于 Beta 阶段。正式安装包会在 Releases 发布；不要从源码目录直接运行设备写入实验。
+当前版本处于 Beta 阶段，安装程序尚未进行 Authenticode 签名。首次使用设备同步前请备份 iPod；不要在未验证的型号上尝试写入。
 
 ### 从源码构建
 
