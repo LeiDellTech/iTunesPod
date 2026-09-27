@@ -1,0 +1,57 @@
+# Build output and local IDE state
+**/bin/
+**/obj/
+**/.vs/
+**/.idea/
+.build/
+artifacts/
+*.user
+*.suo
+*.cache
+*.log
+
+# Local settings, credentials, certificates, and signing material
+.env
+.env.*
+!.env.example
+secrets.json
+secrets.*.json
+*.pfx
+*.p12
+*.key
+*.pem
+*.snk
+id_rsa
+id_ed25519
+
+# Personal media library, device dumps, backups, and runtime data
+*.db-shm
+*.db-wal
+*.sqlite-shm
+*.sqlite-wal
+library.db
+library.db-shm
+library.db-wal
+**/device-covers/
+**/native-covers/
+**/transcode/
+**/backups/
+**/source-backups/
+**/source-deletions/
+**/transactions/
+**/file-transactions/
+**/device-links/
+**/snapshots/
+**/logs/
+**/Play Counts
+**/iTunesDB
+**/iTunesCDB
+**/ArtworkDB
+**/Photo Database
+**/SysInfo
+
+# Internal planning, validation, and historical implementation notes
+/docs/*
+!/docs/assets/
+/docs/assets/*
+!/docs/assets/readme-hero.png

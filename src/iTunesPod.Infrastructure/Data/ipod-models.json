@@ -1,0 +1,1720 @@
+{
+  "Usb": {
+    "1245": {
+      "Generation": "6.5th Gen",
+      "Family": "iPod Classic"
+    },
+    "1261": {
+      "Generation": "",
+      "Family": "iPod Classic"
+    },
+    "1232": {
+      "Generation": "6th Gen",
+      "Family": "iPod Nano"
+    },
+    "1247": {
+      "Generation": "7th Gen",
+      "Family": "iPod Classic"
+    },
+    "1241": {
+      "Generation": "6th Gen",
+      "Family": "iPod Classic"
+    },
+    "1234": {
+      "Generation": "7th Gen",
+      "Family": "iPod Nano"
+    },
+    "1255": {
+      "Generation": "4th Gen",
+      "Family": "iPod Nano"
+    },
+    "1205": {
+      "Generation": "",
+      "Family": "iPod Mini"
+    },
+    "1224": {
+      "Generation": "3rd Gen",
+      "Family": "iPod Nano"
+    },
+    "1208": {
+      "Generation": "",
+      "Family": "iPod"
+    },
+    "1266": {
+      "Generation": "6th Gen",
+      "Family": "iPod Nano"
+    },
+    "1248": {
+      "Generation": "6th Gen",
+      "Family": "iPod Nano"
+    },
+    "1225": {
+      "Generation": "4th Gen",
+      "Family": "iPod Nano"
+    },
+    "1204": {
+      "Generation": "4th Gen (photo)",
+      "Family": "iPod"
+    },
+    "1246": {
+      "Generation": "5th Gen",
+      "Family": "iPod Nano"
+    },
+    "1201": {
+      "Generation": "3rd Gen",
+      "Family": "iPod"
+    },
+    "1249": {
+      "Generation": "7th Gen",
+      "Family": "iPod Nano"
+    },
+    "1262": {
+      "Generation": "3rd Gen",
+      "Family": "iPod Nano"
+    },
+    "1242": {
+      "Generation": "3rd Gen",
+      "Family": "iPod Nano"
+    },
+    "1240": {
+      "Generation": "2nd Gen",
+      "Family": "iPod Nano"
+    },
+    "1265": {
+      "Generation": "5th Gen",
+      "Family": "iPod Nano"
+    },
+    "1209": {
+      "Generation": "",
+      "Family": "iPod"
+    },
+    "1203": {
+      "Generation": "4th Gen (mono)",
+      "Family": "iPod"
+    },
+    "1223": {
+      "Generation": "",
+      "Family": "iPod"
+    },
+    "1267": {
+      "Generation": "7th Gen",
+      "Family": "iPod Nano"
+    },
+    "1207": {
+      "Generation": "",
+      "Family": "iPod"
+    },
+    "1233": {
+      "Generation": "4th Gen",
+      "Family": "iPod Shuffle"
+    },
+    "1231": {
+      "Generation": "5th Gen",
+      "Family": "iPod Nano"
+    },
+    "1263": {
+      "Generation": "4th Gen",
+      "Family": "iPod Nano"
+    },
+    "1260": {
+      "Generation": "2nd Gen",
+      "Family": "iPod Nano"
+    },
+    "1303": {
+      "Generation": "4th Gen",
+      "Family": "iPod Shuffle"
+    },
+    "120A": {
+      "Generation": "",
+      "Family": "iPod Nano"
+    },
+    "1302": {
+      "Generation": "3rd Gen",
+      "Family": "iPod Shuffle"
+    },
+    "1202": {
+      "Generation": "",
+      "Family": "iPod"
+    },
+    "1220": {
+      "Generation": "2nd Gen",
+      "Family": "iPod Nano"
+    },
+    "1301": {
+      "Generation": "2nd Gen",
+      "Family": "iPod Shuffle"
+    },
+    "1300": {
+      "Generation": "1st Gen",
+      "Family": "iPod Shuffle"
+    },
+    "1243": {
+      "Generation": "4th Gen",
+      "Family": "iPod Nano"
+    },
+    "1206": {
+      "Generation": "",
+      "Family": "iPod"
+    },
+    "124A": {
+      "Generation": "7th Gen",
+      "Family": "iPod Nano"
+    }
+  },
+  "SerialSuffixes": {
+    "F4RW": "MD775",
+    "TDU": "MA079",
+    "YXA": "MB233",
+    "8CQ": "MC167",
+    "QKR": "M9437",
+    "WL2": "MA725",
+    "VQU": "MA497",
+    "FJDH": "ME949",
+    "F0GV": "MD481",
+    "F4RT": "MD773",
+    "YXV": "MB257",
+    "RS9": "M9724",
+    "DFDM": "MC749",
+    "MJ2": "M8541",
+    "V8U": "MA426",
+    "U5H": "MA215",
+    "72S": "MC064",
+    "WEE": "MA446",
+    "YXJ": "MB229",
+    "37L": "MB660",
+    "GK69": "MKME2",
+    "WEH": "MA002",
+    "V96": "MA450",
+    "QKJ": "M9434",
+    "UNA": "MA350",
+    "VQH": "MA487",
+    "YXL": "MB233",
+    "NLW": "M8946",
+    "DDW3": "MC693",
+    "YXX": "MB261",
+    "TJT": "MA099",
+    "TV1": "MA107",
+    "S4J": "M9806",
+    "71V": "MC027",
+    "W9G": "MA664",
+    "ALD": "MC384",
+    "NRH": "M8976",
+    "5BF": "MB918",
+    "73B": "MC075",
+    "UNB": "MA350",
+    "5B8": "MB905",
+    "3QS": "MB732",
+    "2C7": "MB565",
+    "739": "MC072",
+    "YMU": "MB145",
+    "5B9": "MB907",
+    "YX6": "MB225",
+    "VQK": "MA489",
+    "XQV": "MA949",
+    "F0GH": "MD478",
+    "TDS": "MA079",
+    "37Q": "MB666",
+    "F0GF": "MD476",
+    "437": "MB813",
+    "726": "MC037",
+    "SZ9": "MA002",
+    "YMV": "MB147",
+    "V9L": "MA444",
+    "V8W": "MA428",
+    "3R0": "MB754",
+    "PNT": "M9244",
+    "WUC": "MA450",
+    "TUY": "MA099",
+    "NGH": "M8740",
+    "Y5N": "MB029",
+    "VQT": "MA497",
+    "WEG": "MA002",
+    "DDW1": "MC691",
+    "NLY": "M8948",
+    "72R": "MC062",
+    "R5T": "M9586",
+    "F0GP": "MD477",
+    "GK6D": "MKMJ2",
+    "VQ5": "MA477",
+    "F0GL": "MD481",
+    "F0GN": "MD476",
+    "721": "MC034",
+    "S47": "M9806",
+    "DDW8": "MC698",
+    "72Q": "MC060",
+    "S44": "M9803",
+    "37K": "MB657",
+    "A7D": "MC331",
+    "3FM": "MB685",
+    "V8T": "MA426",
+    "2C5": "MB562",
+    "S2X": "M9787",
+    "V9Q": "MA448",
+    "UYN": "MA350",
+    "1P1": "MB480",
+    "5B7": "MB903",
+    "2ME": "MB598",
+    "3QU": "MB739",
+    "YER": "MA899",
+    "SZW": "MA004",
+    "F4LP": "MD744",
+    "XQX": "MA949",
+    "QKL": "M9436",
+    "TK2": "MA107",
+    "SZC": "MA005",
+    "YXK": "MB231",
+    "MMB": "M8737",
+    "X9A": "MA726",
+    "F0GJ": "MD479",
+    "DFDP": "MC751",
+    "YX9": "MB225",
+    "V95": "MA450",
+    "TXM": "MA146",
+    "GK64": "MKN52",
+    "TSX": "M9724",
+    "72F": "MC046",
+    "S41": "M9800",
+    "37H": "MB654",
+    "5BD": "MB915",
+    "SAZ": "M9830",
+    "DCMJ": "MC584",
+    "S42": "M9801",
+    "VTE": "MA546",
+    "37G": "MB651",
+    "ALB": "MC381",
+    "GK60": "MKMV2",
+    "F0GD": "MD475",
+    "S45": "M9804",
+    "YMX": "MB150",
+    "DDW6": "MC696",
+    "MMC": "M8738",
+    "F0GM": "MD475",
+    "F0GG": "MD477",
+    "5BA": "MB909",
+    "9ZS": "MC293",
+    "VQL": "MA489",
+    "WL3": "MA725",
+    "TK3": "MA107",
+    "UYP": "MA352",
+    "3QZ": "MB751",
+    "WEK": "MA146",
+    "37P": "MB663",
+    "V9K": "MA444",
+    "4NZ": "MB867",
+    "TJU": "MA099",
+    "UPR": "MA352",
+    "F4T0": "MD777",
+    "DDW7": "MC697",
+    "734": "MC068",
+    "PFW": "M9160",
+    "DDVY": "MC689",
+    "A78": "MC323",
+    "XR1": "MA953",
+    "Q8U": "M9282",
+    "VQM": "MA446",
+    "QKK": "M9435",
+    "F4VG": "MD780",
+    "NGE": "M8740",
+    "436": "MB811",
+    "1ZP": "MB524",
+    "C60": "M9725",
+    "R5R": "M9586",
+    "PQ7": "M9268",
+    "WU9": "MA444",
+    "QKM": "M9437",
+    "3QX": "MB745",
+    "GK65": "MKN72",
+    "3FL": "MB683",
+    "VQ6": "MA477",
+    "TUZ": "MA004",
+    "72D": "MC043",
+    "YXR": "MB249",
+    "GK68": "MKM92",
+    "LG6": "M8541",
+    "F4T1": "MD778",
+    "V8X": "MA428",
+    "S4H": "M9805",
+    "QQF": "M9460",
+    "VTF": "MA546",
+    "5BC": "MB913",
+    "GK67": "MKM72",
+    "1ZK": "MB520",
+    "1ZH": "MB518",
+    "439": "MB817",
+    "PRC": "M9160",
+    "S4C": "M9800",
+    "DCMP": "MC526",
+    "V9M": "MA446",
+    "72A": "MC040",
+    "F0GK": "MD480",
+    "S43": "M9802",
+    "QGV": "M9724",
+    "V9S": "MA450",
+    "XQ5": "MA947",
+    "FJQ1": "ME971",
+    "V9V": "MA452",
+    "9ZU": "MC297",
+    "DCMK": "MC585",
+    "WEL": "MA002",
+    "72K": "MC049",
+    "S48": "M9807",
+    "72L": "MC050",
+    "SB1": "M9830",
+    "YX8": "MA951",
+    "WED": "MA002",
+    "DDW2": "MC692",
+    "TXN": "MA147",
+    "DCMN": "MC525",
+    "YX7": "MB227",
+    "TXK": "MA146",
+    "5BE": "MB917",
+    "13F": "MB453",
+    "F4VF": "MD779",
+    "SAY": "M9829",
+    "YES": "MA899",
+    "F4LN": "MD744",
+    "GK61": "MKMX2",
+    "PNU": "M9245",
+    "R80": "M9724",
+    "Y0R": "MA980",
+    "SZA": "MA003",
+    "3W6": "MB779",
+    "XQS": "MA947",
+    "A7B": "MC328",
+    "F0GQ": "MD478",
+    "QKQ": "M9436",
+    "ML1": "M8709",
+    "WEJ": "MA146",
+    "5BB": "MB911",
+    "F0GR": "MD479",
+    "WEF": "MA146",
+    "WEM": "MA664",
+    "QKP": "M9435",
+    "YXH": "MB227",
+    "F4RV": "MD774",
+    "3QY": "MB748",
+    "V9P": "MA448",
+    "V9R": "MA450",
+    "TXL": "MA147",
+    "1ZR": "MB526",
+    "F4RY": "MD776",
+    "DDW9": "MC699",
+    "3FK": "MB681",
+    "V9N": "MA446",
+    "VQJ": "MA487",
+    "NAM": "M8541",
+    "GK62": "MKN02",
+    "MMF": "M8741",
+    "738": "MC070",
+    "891": "MC164",
+    "PFV": "M9724",
+    "QKN": "M9434",
+    "DDW5": "MC695",
+    "WEC": "MA002",
+    "GK6F": "MKML2",
+    "DDVX": "MC688",
+    "SZV": "MA004",
+    "TM2": "MA127",
+    "R5Q": "M9585",
+    "3QW": "MB742",
+    "X9B": "MA726",
+    "Y0P": "MA978",
+    "DFDN": "MC750",
+    "NM7": "M8948",
+    "XQY": "MA951",
+    "72X": "MC066",
+    "A1L": "MC303",
+    "PS9": "M9282",
+    "71Y": "MC031",
+    "RSA": "M9725",
+    "GK63": "MKN22",
+    "DDW0": "MC690",
+    "TSY": "M9725",
+    "F0GT": "MD480",
+    "S4G": "M9805",
+    "DDW4": "MC694",
+    "UPS": "MA352",
+    "SZT": "MA005",
+    "1ZM": "MB522",
+    "438": "MB815",
+    "ALG": "MC387",
+    "SZB": "MA004",
+    "A1U": "MC307",
+    "3QT": "MB735",
+    "YXT": "MB253",
+    "VKL": "MA489",
+    "A1S": "MC306",
+    "GK6C": "MKMG2",
+    "TV0": "MA005",
+    "73A": "MC074",
+    "MME": "M8709",
+    "PQ5": "M9244",
+    "SZU": "MA003"
+  },
+  "Commit": "a20242428b93b672d14b37230772dbad75139c69",
+  "Copyright": "Copyright (c) 2025 John Gibbons",
+  "Models": {
+    "M9160": {
+      "Capacity": "4GB",
+      "Color": "Silver",
+      "Family": "iPod Mini",
+      "Generation": "1st Gen"
+    },
+    "MA953": {
+      "Capacity": "1GB",
+      "Color": "Orange",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MC690": {
+      "Capacity": "8GB",
+      "Color": "Green",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "MA546": {
+      "Capacity": "1GB",
+      "Color": "Silver",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MB739": {
+      "Capacity": "8GB",
+      "Color": "Purple",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "M8513": {
+      "Capacity": "5GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "1st Gen"
+    },
+    "MB257": {
+      "Capacity": "8GB",
+      "Color": "Red",
+      "Family": "iPod Nano",
+      "Generation": "3rd Gen"
+    },
+    "MA215": {
+      "Capacity": "20GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "4th Gen (color)"
+    },
+    "MD778": {
+      "Capacity": "2GB",
+      "Color": "Silver",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MC331": {
+      "Capacity": "4GB",
+      "Color": "Pink",
+      "Family": "iPod Shuffle",
+      "Generation": "3rd Gen"
+    },
+    "MA947": {
+      "Capacity": "1GB",
+      "Color": "Pink",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MA489": {
+      "Capacity": "4GB",
+      "Color": "Pink",
+      "Family": "iPod Nano",
+      "Generation": "2nd Gen"
+    },
+    "MA452": {
+      "Capacity": "30GB",
+      "Color": "U2",
+      "Family": "iPod",
+      "Generation": "5th Gen"
+    },
+    "MD481": {
+      "Capacity": "16GB",
+      "Color": "Slate",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "MC692": {
+      "Capacity": "8GB",
+      "Color": "Pink",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "MA352": {
+      "Capacity": "1GB",
+      "Color": "Black",
+      "Family": "iPod Nano",
+      "Generation": "1st Gen"
+    },
+    "MA002": {
+      "Capacity": "30GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "5th Gen"
+    },
+    "MC585": {
+      "Capacity": "2GB",
+      "Color": "Pink",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MB663": {
+      "Capacity": "4GB",
+      "Color": "Green",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MC074": {
+      "Capacity": "16GB",
+      "Color": "Red",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MA444": {
+      "Capacity": "30GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "5.5th Gen"
+    },
+    "M9725": {
+      "Capacity": "1GB",
+      "Color": "White",
+      "Family": "iPod Shuffle",
+      "Generation": "1st Gen"
+    },
+    "MB228": {
+      "Capacity": "1GB",
+      "Color": "Blue",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MKMJ2": {
+      "Capacity": "2GB",
+      "Color": "Space Gray",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MA147": {
+      "Capacity": "60GB",
+      "Color": "Black",
+      "Family": "iPod",
+      "Generation": "5th Gen"
+    },
+    "MC060": {
+      "Capacity": "16GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MD777": {
+      "Capacity": "2GB",
+      "Color": "Purple",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MA980": {
+      "Capacity": "8GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "3rd Gen"
+    },
+    "MA004": {
+      "Capacity": "2GB",
+      "Color": "White",
+      "Family": "iPod Nano",
+      "Generation": "1st Gen"
+    },
+    "MKME2": {
+      "Capacity": "2GB",
+      "Color": "Blue",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MB227": {
+      "Capacity": "1GB",
+      "Color": "Blue",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MB779": {
+      "Capacity": "2GB",
+      "Color": "Red",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MKN02": {
+      "Capacity": "16GB",
+      "Color": "Blue",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "MA127": {
+      "Capacity": "20GB",
+      "Color": "U2",
+      "Family": "iPod",
+      "Generation": "4th Gen (color)"
+    },
+    "MB817": {
+      "Capacity": "1GB",
+      "Color": "Red",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "M9268": {
+      "Capacity": "40GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "4th Gen (mono)"
+    },
+    "MB261": {
+      "Capacity": "8GB",
+      "Color": "Black",
+      "Family": "iPod Nano",
+      "Generation": "3rd Gen"
+    },
+    "MB751": {
+      "Capacity": "8GB",
+      "Color": "Red",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MKM92": {
+      "Capacity": "2GB",
+      "Color": "Gold",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MC303": {
+      "Capacity": "4GB",
+      "Color": "Stainless Steel",
+      "Family": "iPod Shuffle",
+      "Generation": "3rd Gen"
+    },
+    "M8738": {
+      "Capacity": "20GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "2nd Gen"
+    },
+    "M9805": {
+      "Capacity": "6GB",
+      "Color": "Pink",
+      "Family": "iPod Mini",
+      "Generation": "2nd Gen"
+    },
+    "MB748": {
+      "Capacity": "8GB",
+      "Color": "Yellow",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MC034": {
+      "Capacity": "8GB",
+      "Color": "Purple",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "M8976": {
+      "Capacity": "10GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "3rd Gen"
+    },
+    "MB735": {
+      "Capacity": "8GB",
+      "Color": "Pink",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MD774": {
+      "Capacity": "2GB",
+      "Color": "Yellow",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MC328": {
+      "Capacity": "4GB",
+      "Color": "Blue",
+      "Family": "iPod Shuffle",
+      "Generation": "3rd Gen"
+    },
+    "MB524": {
+      "Capacity": "2GB",
+      "Color": "Red",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MC075": {
+      "Capacity": "16GB",
+      "Color": "Pink",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MC699": {
+      "Capacity": "16GB",
+      "Color": "Red",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "M8741": {
+      "Capacity": "20GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "2nd Gen"
+    },
+    "MB867": {
+      "Capacity": "4GB",
+      "Color": "Silver",
+      "Family": "iPod Shuffle",
+      "Generation": "3rd Gen"
+    },
+    "MB145": {
+      "Capacity": "160GB",
+      "Color": "Silver",
+      "Family": "iPod Classic",
+      "Generation": "6th Gen"
+    },
+    "MB029": {
+      "Capacity": "80GB",
+      "Color": "Silver",
+      "Family": "iPod Classic",
+      "Generation": "6th Gen"
+    },
+    "MD475": {
+      "Capacity": "16GB",
+      "Color": "Pink",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "MB732": {
+      "Capacity": "8GB",
+      "Color": "Blue",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MC037": {
+      "Capacity": "8GB",
+      "Color": "Blue",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MKM72": {
+      "Capacity": "2GB",
+      "Color": "Pink",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MKMV2": {
+      "Capacity": "16GB",
+      "Color": "Pink",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "M9460": {
+      "Capacity": "15GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "3rd Gen"
+    },
+    "MC040": {
+      "Capacity": "8GB",
+      "Color": "Green",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MB654": {
+      "Capacity": "4GB",
+      "Color": "Pink",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MC306": {
+      "Capacity": "2GB",
+      "Color": "Silver",
+      "Family": "iPod Shuffle",
+      "Generation": "3rd Gen"
+    },
+    "MB745": {
+      "Capacity": "8GB",
+      "Color": "Green",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MC693": {
+      "Capacity": "8GB",
+      "Color": "Red",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "MD775": {
+      "Capacity": "2GB",
+      "Color": "Blue",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MB742": {
+      "Capacity": "8GB",
+      "Color": "Orange",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MKN72": {
+      "Capacity": "16GB",
+      "Color": "Red",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "M9829": {
+      "Capacity": "30GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "4th Gen (photo)"
+    },
+    "MD476": {
+      "Capacity": "16GB",
+      "Color": "Yellow",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "MB225": {
+      "Capacity": "1GB",
+      "Color": "Silver",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "M9801": {
+      "Capacity": "6GB",
+      "Color": "Silver",
+      "Family": "iPod Mini",
+      "Generation": "2nd Gen"
+    },
+    "MC384": {
+      "Capacity": "2GB",
+      "Color": "Blue",
+      "Family": "iPod Shuffle",
+      "Generation": "3rd Gen"
+    },
+    "MB815": {
+      "Capacity": "1GB",
+      "Color": "Green",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MA978": {
+      "Capacity": "4GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "3rd Gen"
+    },
+    "M9437": {
+      "Capacity": "4GB",
+      "Color": "Gold",
+      "Family": "iPod Mini",
+      "Generation": "1st Gen"
+    },
+    "MKMX2": {
+      "Capacity": "16GB",
+      "Color": "Gold",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "MB453": {
+      "Capacity": "8GB",
+      "Color": "Pink",
+      "Family": "iPod Nano",
+      "Generation": "3rd Gen"
+    },
+    "MB565": {
+      "Capacity": "120GB",
+      "Color": "Black",
+      "Family": "iPod Classic",
+      "Generation": "6.5th Gen"
+    },
+    "MB683": {
+      "Capacity": "2GB",
+      "Color": "Blue",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MB657": {
+      "Capacity": "4GB",
+      "Color": "Purple",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "M8740": {
+      "Capacity": "10GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "2nd Gen"
+    },
+    "MC027": {
+      "Capacity": "8GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MA450": {
+      "Capacity": "80GB",
+      "Color": "Black",
+      "Family": "iPod",
+      "Generation": "5.5th Gen"
+    },
+    "MC050": {
+      "Capacity": "8GB",
+      "Color": "Pink",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MB681": {
+      "Capacity": "2GB",
+      "Color": "Pink",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MC062": {
+      "Capacity": "16GB",
+      "Color": "Black",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MA350": {
+      "Capacity": "1GB",
+      "Color": "White",
+      "Family": "iPod Nano",
+      "Generation": "1st Gen"
+    },
+    "M9804": {
+      "Capacity": "4GB",
+      "Color": "Pink",
+      "Family": "iPod Mini",
+      "Generation": "2nd Gen"
+    },
+    "MB229": {
+      "Capacity": "1GB",
+      "Color": "Green",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MA107": {
+      "Capacity": "4GB",
+      "Color": "Black",
+      "Family": "iPod Nano",
+      "Generation": "1st Gen"
+    },
+    "MA426": {
+      "Capacity": "4GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "2nd Gen"
+    },
+    "MB918": {
+      "Capacity": "16GB",
+      "Color": "Black",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MB522": {
+      "Capacity": "2GB",
+      "Color": "Green",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MC167": {
+      "Capacity": "1GB",
+      "Color": "Gold",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MA664": {
+      "Capacity": "30GB",
+      "Color": "U2",
+      "Family": "iPod",
+      "Generation": "5.5th Gen"
+    },
+    "MB520": {
+      "Capacity": "2GB",
+      "Color": "Blue",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MC049": {
+      "Capacity": "8GB",
+      "Color": "Red",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MC695": {
+      "Capacity": "16GB",
+      "Color": "Blue",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "M9830": {
+      "Capacity": "60GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "4th Gen (photo)"
+    },
+    "MD744": {
+      "Capacity": "16GB",
+      "Color": "Red",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "MB480": {
+      "Capacity": "4GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "M8946": {
+      "Capacity": "15GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "3rd Gen"
+    },
+    "M9245": {
+      "Capacity": "40GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "3rd Gen"
+    },
+    "MA899": {
+      "Capacity": "8GB",
+      "Color": "Red",
+      "Family": "iPod Nano",
+      "Generation": "2nd Gen"
+    },
+    "MC043": {
+      "Capacity": "8GB",
+      "Color": "Yellow",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MC697": {
+      "Capacity": "16GB",
+      "Color": "Orange",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "MB598": {
+      "Capacity": "8GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MB811": {
+      "Capacity": "1GB",
+      "Color": "Pink",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MC068": {
+      "Capacity": "16GB",
+      "Color": "Green",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MD773": {
+      "Capacity": "2GB",
+      "Color": "Pink",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MC387": {
+      "Capacity": "2GB",
+      "Color": "Pink",
+      "Family": "iPod Shuffle",
+      "Generation": "3rd Gen"
+    },
+    "MA497": {
+      "Capacity": "8GB",
+      "Color": "Black",
+      "Family": "iPod Nano",
+      "Generation": "2nd Gen"
+    },
+    "MC164": {
+      "Capacity": "4GB",
+      "Color": "Black",
+      "Family": "iPod Shuffle",
+      "Generation": "3rd Gen"
+    },
+    "MB666": {
+      "Capacity": "4GB",
+      "Color": "Yellow",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MC046": {
+      "Capacity": "8GB",
+      "Color": "Orange",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "M9586": {
+      "Capacity": "60GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "4th Gen (photo)"
+    },
+    "MC323": {
+      "Capacity": "2GB",
+      "Color": "Black",
+      "Family": "iPod Shuffle",
+      "Generation": "3rd Gen"
+    },
+    "M8541": {
+      "Capacity": "5GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "1st Gen"
+    },
+    "MA949": {
+      "Capacity": "1GB",
+      "Color": "Blue",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "ME436": {
+      "Capacity": "40GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "4th Gen (mono)"
+    },
+    "MD480": {
+      "Capacity": "16GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "MA726": {
+      "Capacity": "8GB",
+      "Color": "Red",
+      "Family": "iPod Nano",
+      "Generation": "2nd Gen"
+    },
+    "M9803": {
+      "Capacity": "6GB",
+      "Color": "Blue",
+      "Family": "iPod Mini",
+      "Generation": "2nd Gen"
+    },
+    "M9282": {
+      "Capacity": "20GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "4th Gen (mono)"
+    },
+    "MC031": {
+      "Capacity": "8GB",
+      "Color": "Black",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "M9787": {
+      "Capacity": "20GB",
+      "Color": "U2",
+      "Family": "iPod",
+      "Generation": "4th Gen (mono)"
+    },
+    "M9436": {
+      "Capacity": "4GB",
+      "Color": "Blue",
+      "Family": "iPod Mini",
+      "Generation": "1st Gen"
+    },
+    "MB915": {
+      "Capacity": "16GB",
+      "Color": "Yellow",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MB526": {
+      "Capacity": "2GB",
+      "Color": "Purple",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MC072": {
+      "Capacity": "16GB",
+      "Color": "Orange",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "M9800": {
+      "Capacity": "4GB",
+      "Color": "Silver",
+      "Family": "iPod Mini",
+      "Generation": "2nd Gen"
+    },
+    "MB651": {
+      "Capacity": "4GB",
+      "Color": "Blue",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MB903": {
+      "Capacity": "16GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "M8697": {
+      "Capacity": "5GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "1st Gen"
+    },
+    "MB562": {
+      "Capacity": "120GB",
+      "Color": "Silver",
+      "Family": "iPod Classic",
+      "Generation": "6.5th Gen"
+    },
+    "MA477": {
+      "Capacity": "2GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "2nd Gen"
+    },
+    "MC750": {
+      "Capacity": "2GB",
+      "Color": "Green",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "M9435": {
+      "Capacity": "4GB",
+      "Color": "Pink",
+      "Family": "iPod Mini",
+      "Generation": "1st Gen"
+    },
+    "MB685": {
+      "Capacity": "2GB",
+      "Color": "Green",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MC297": {
+      "Capacity": "160GB",
+      "Color": "Black",
+      "Family": "iPod Classic",
+      "Generation": "7th Gen"
+    },
+    "MKML2": {
+      "Capacity": "2GB",
+      "Color": "Red",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MB813": {
+      "Capacity": "1GB",
+      "Color": "Blue",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MC751": {
+      "Capacity": "2GB",
+      "Color": "Blue",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MA003": {
+      "Capacity": "60GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "5th Gen"
+    },
+    "MA079": {
+      "Capacity": "20GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "4th Gen (color)"
+    },
+    "MB147": {
+      "Capacity": "80GB",
+      "Color": "Black",
+      "Family": "iPod Classic",
+      "Generation": "6th Gen"
+    },
+    "MC694": {
+      "Capacity": "16GB",
+      "Color": "Graphite",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "MA146": {
+      "Capacity": "30GB",
+      "Color": "Black",
+      "Family": "iPod",
+      "Generation": "5th Gen"
+    },
+    "ME971": {
+      "Capacity": "16GB",
+      "Color": "Space Gray",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "MC064": {
+      "Capacity": "16GB",
+      "Color": "Purple",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MC381": {
+      "Capacity": "2GB",
+      "Color": "Green",
+      "Family": "iPod Shuffle",
+      "Generation": "3rd Gen"
+    },
+    "MB150": {
+      "Capacity": "160GB",
+      "Color": "Black",
+      "Family": "iPod Classic",
+      "Generation": "6th Gen"
+    },
+    "MB233": {
+      "Capacity": "1GB",
+      "Color": "Purple",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MA428": {
+      "Capacity": "4GB",
+      "Color": "Blue",
+      "Family": "iPod Nano",
+      "Generation": "2nd Gen"
+    },
+    "M9807": {
+      "Capacity": "6GB",
+      "Color": "Green",
+      "Family": "iPod Mini",
+      "Generation": "2nd Gen"
+    },
+    "MA099": {
+      "Capacity": "2GB",
+      "Color": "Black",
+      "Family": "iPod Nano",
+      "Generation": "1st Gen"
+    },
+    "M9244": {
+      "Capacity": "20GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "3rd Gen"
+    },
+    "MA448": {
+      "Capacity": "80GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "5.5th Gen"
+    },
+    "MA725": {
+      "Capacity": "4GB",
+      "Color": "Red",
+      "Family": "iPod Nano",
+      "Generation": "2nd Gen"
+    },
+    "MKN52": {
+      "Capacity": "16GB",
+      "Color": "Space Gray",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "MB917": {
+      "Capacity": "16GB",
+      "Color": "Red",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MB518": {
+      "Capacity": "2GB",
+      "Color": "Silver",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MC307": {
+      "Capacity": "4GB",
+      "Color": "Green",
+      "Family": "iPod Shuffle",
+      "Generation": "3rd Gen"
+    },
+    "MKMG2": {
+      "Capacity": "2GB",
+      "Color": "Silver",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MD479": {
+      "Capacity": "16GB",
+      "Color": "Purple",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "M9724": {
+      "Capacity": "512MB",
+      "Color": "White",
+      "Family": "iPod Shuffle",
+      "Generation": "1st Gen"
+    },
+    "MC698": {
+      "Capacity": "16GB",
+      "Color": "Pink",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "MB905": {
+      "Capacity": "16GB",
+      "Color": "Blue",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MB253": {
+      "Capacity": "8GB",
+      "Color": "Green",
+      "Family": "iPod Nano",
+      "Generation": "3rd Gen"
+    },
+    "M9806": {
+      "Capacity": "4GB",
+      "Color": "Green",
+      "Family": "iPod Mini",
+      "Generation": "2nd Gen"
+    },
+    "MD776": {
+      "Capacity": "2GB",
+      "Color": "Green",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "M9585": {
+      "Capacity": "40GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "4th Gen (photo)"
+    },
+    "MB913": {
+      "Capacity": "16GB",
+      "Color": "Green",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "M8709": {
+      "Capacity": "10GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "1st Gen"
+    },
+    "M9802": {
+      "Capacity": "4GB",
+      "Color": "Blue",
+      "Family": "iPod Mini",
+      "Generation": "2nd Gen"
+    },
+    "MA005": {
+      "Capacity": "4GB",
+      "Color": "White",
+      "Family": "iPod Nano",
+      "Generation": "1st Gen"
+    },
+    "MA951": {
+      "Capacity": "1GB",
+      "Color": "Green",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MC066": {
+      "Capacity": "16GB",
+      "Color": "Blue",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MB231": {
+      "Capacity": "1GB",
+      "Color": "Red",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "M9434": {
+      "Capacity": "4GB",
+      "Color": "Green",
+      "Family": "iPod Mini",
+      "Generation": "1st Gen"
+    },
+    "MC688": {
+      "Capacity": "8GB",
+      "Color": "Graphite",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "MC691": {
+      "Capacity": "8GB",
+      "Color": "Orange",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "MC689": {
+      "Capacity": "8GB",
+      "Color": "Blue",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "MC696": {
+      "Capacity": "16GB",
+      "Color": "Green",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "MB907": {
+      "Capacity": "16GB",
+      "Color": "Pink",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MS492": {
+      "Capacity": "30GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "4th Gen (photo)"
+    },
+    "MB911": {
+      "Capacity": "16GB",
+      "Color": "Orange",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MC526": {
+      "Capacity": "16GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "MC749": {
+      "Capacity": "2GB",
+      "Color": "Orange",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MA487": {
+      "Capacity": "4GB",
+      "Color": "Green",
+      "Family": "iPod Nano",
+      "Generation": "2nd Gen"
+    },
+    "MD779": {
+      "Capacity": "2GB",
+      "Color": "Slate",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MKN22": {
+      "Capacity": "16GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "MB754": {
+      "Capacity": "8GB",
+      "Color": "Black",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MD478": {
+      "Capacity": "16GB",
+      "Color": "Green",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "MA446": {
+      "Capacity": "30GB",
+      "Color": "Black",
+      "Family": "iPod",
+      "Generation": "5.5th Gen"
+    },
+    "MD780": {
+      "Capacity": "2GB",
+      "Color": "Red",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "ME949": {
+      "Capacity": "2GB",
+      "Color": "Space Gray",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "MA564": {
+      "Capacity": "1GB",
+      "Color": "Silver",
+      "Family": "iPod Shuffle",
+      "Generation": "2nd Gen"
+    },
+    "MC584": {
+      "Capacity": "2GB",
+      "Color": "Silver",
+      "Family": "iPod Shuffle",
+      "Generation": "4th Gen"
+    },
+    "M8737": {
+      "Capacity": "10GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "2nd Gen"
+    },
+    "MC070": {
+      "Capacity": "16GB",
+      "Color": "Yellow",
+      "Family": "iPod Nano",
+      "Generation": "5th Gen"
+    },
+    "MB909": {
+      "Capacity": "16GB",
+      "Color": "Purple",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    },
+    "MC293": {
+      "Capacity": "160GB",
+      "Color": "Silver",
+      "Family": "iPod Classic",
+      "Generation": "7th Gen"
+    },
+    "MD477": {
+      "Capacity": "16GB",
+      "Color": "Blue",
+      "Family": "iPod Nano",
+      "Generation": "7th Gen"
+    },
+    "MC525": {
+      "Capacity": "8GB",
+      "Color": "Silver",
+      "Family": "iPod Nano",
+      "Generation": "6th Gen"
+    },
+    "MB249": {
+      "Capacity": "8GB",
+      "Color": "Blue",
+      "Family": "iPod Nano",
+      "Generation": "3rd Gen"
+    },
+    "M8948": {
+      "Capacity": "30GB",
+      "Color": "White",
+      "Family": "iPod",
+      "Generation": "3rd Gen"
+    },
+    "MB660": {
+      "Capacity": "4GB",
+      "Color": "Orange",
+      "Family": "iPod Nano",
+      "Generation": "4th Gen"
+    }
+  },
+  "Source": "https://github.com/TheRealSavi/iOpenPod",
+  "License": "MIT"
+}
