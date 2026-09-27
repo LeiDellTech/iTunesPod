@@ -1,5 +1,5 @@
 #define AppName "iTunesPod"
-#define AppVersion "0.4.0"
+#define AppVersion "0.5.0"
 #define AppPublisher "WatchGeek表极客"
 #define AppExeName "iTunesPod.App.exe"
 
@@ -10,14 +10,14 @@ AppVersion={#AppVersion}
 AppVerName={#AppName} {#AppVersion}
 AppPublisher={#AppPublisher}
 AppPublisherURL=https://leidell.cn
-AppSupportURL=https://github.com/LeiDell
-AppUpdatesURL=https://github.com/LeiDell
+AppSupportURL=https://github.com/LeiDellTech/iTunesPod/issues
+AppUpdatesURL=https://github.com/LeiDellTech/iTunesPod/releases
 DefaultDirName={localappdata}\Programs\{#AppName}
 DefaultGroupName={#AppName}
 DisableProgramGroupPage=yes
 PrivilegesRequired=lowest
 OutputDir=..\artifacts\installer
-OutputBaseFilename=iTunesPod-0.4.0-Setup
+OutputBaseFilename=iTunesPod-{#AppVersion}-Setup
 SetupIconFile=..\src\iTunesPod.App\Assets\iTunesPod.ico
 UninstallDisplayIcon={app}\{#AppExeName}
 UninstallDisplayName={#AppName} {#AppVersion}

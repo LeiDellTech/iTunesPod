@@ -1,10 +1,11 @@
 $ErrorActionPreference='Stop'
+$appVersion=([xml](Get-Content (Join-Path $PSScriptRoot 'Directory.Build.props') -Raw)).Project.PropertyGroup.Version
 $packageRoot=Join-Path $PSScriptRoot '.build/nuget'
 $outputRoot=Join-Path $PSScriptRoot 'artifacts/win-x64-wpf/licenses'
 New-Item -ItemType Directory -Force -Path $outputRoot | Out-Null
 Copy-Item -LiteralPath (Join-Path $PSScriptRoot 'THIRD-PARTY-NOTICES.md') -Destination (Join-Path $PSScriptRoot 'artifacts/win-x64-wpf/THIRD-PARTY-NOTICES.md')
 @'
-iTunesPod 0.4.0 · Windows x64
+iTunesPod __VERSION__ · Windows x64
 解压整个目录，双击 iTunesPod.App.exe。不要单独移动 EXE。
 自带 .NET 8.0.24、FFmpeg 和 FFprobe，无需另装运行时和转换工具。
 音乐导入/监视、歌曲信息与封面编辑、试听、播放列表/M3U/智能规则、RSS 播客、视频分类与转码、设备照片相册及备忘录已接入。
@@ -14,9 +15,11 @@ Nano 4 的同步流程包含内容去重、预览、HASH58 签名、媒体与封
 本版面向 Nano 4 / 数据库版本 115；未知规则和未知数据库写入会阻止操作。
 实机已完成短音频写入、HASH58 复核、媒体复读和恢复往返测试；测试后数据库、元数据和媒体集合均精确恢复。耳机播放、照片显示、安全弹出后的物理状态和断电恢复尚待人工验收。
 本机资料保存在 %LOCALAPPDATA%\iTunesPod。网络封面默认关闭，RSS 和手工下载需要网络。
+网易云音乐：从左侧入口扫码登录，读取喜欢的音乐和收藏歌单，或打开公开歌单链接。选择网易云 / GD Studio 来源，下载到电脑资料库后组成本地歌单，再预览同步到 iPod。
+Cookie 只保留在本次运行内存中，并只发送给 api.leidell.cn。GD Studio 和音频服务器不会收到账号 Cookie。退出登录或关闭软件会清除会话。
 Ctrl+F 搜索；Enter 播放；双击编辑；Ctrl/Shift 多选；Ctrl+Z 撤销同步草稿。
 此产品为独立第三方应用，与 Apple 无官方关联。
-'@ | Set-Content -LiteralPath (Join-Path $PSScriptRoot 'artifacts/win-x64-wpf/使用说明.txt') -Encoding utf8
+'@ | ForEach-Object { $_.Replace('__VERSION__',$appVersion) } | Set-Content -LiteralPath (Join-Path $PSScriptRoot 'artifacts/win-x64-wpf/使用说明.txt') -Encoding utf8
 $lock=Get-Content -LiteralPath (Join-Path $PSScriptRoot 'src/iTunesPod.App/packages.lock.json') -Raw | ConvertFrom-Json
 foreach ($framework in $lock.dependencies.PSObject.Properties) {
  foreach ($dependency in $framework.Value.PSObject.Properties) {

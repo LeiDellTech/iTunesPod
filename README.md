@@ -32,7 +32,7 @@
 
 ### 安装
 
-从 [GitHub Releases](https://github.com/LeiDellTech/iTunesPod/releases) 下载 **iTunesPod 0.4.0 Beta** Windows x64 安装程序。安装程序包含 .NET Desktop Runtime 与所需媒体工具，无需单独安装运行环境；发布页同时提供 SHA-256 校验文件。
+从 [GitHub Releases](https://github.com/LeiDellTech/iTunesPod/releases) 下载 **iTunesPod 0.5.0 Beta** Windows x64 安装程序。安装程序包含 .NET Desktop Runtime 与所需媒体工具，无需单独安装运行环境；发布页同时提供 SHA-256 校验文件。
 
 当前版本处于 Beta 阶段，安装程序尚未进行 Authenticode 签名。首次使用设备同步前请备份 iPod；不要在未验证的型号上尝试写入。
 
@@ -70,6 +70,7 @@ dotnet publish src/iTunesPod.App -c Release -r win-x64 --self-contained true -o 
 | 播放与整理 | 音乐播放、队列、播放进度、播放列表、M3U/M3U8 和智能播放列表 |
 | 元数据编辑 | 编辑标签、评分与封面；在保存源文件前创建备份 |
 | 播客 | RSS 订阅、刷新、下载、取消和保留策略 |
+| 网易云音乐 | 用户 ID / 主页链接查找账号并读取公开收藏歌单；扫码或 Cookie 登录读取个人收藏；网易云和 GD Studio 搜索与下载；导入本地歌单后预览同步到 iPod |
 | iPod 管理 | 设备识别、容量与曲目浏览、播放列表、封面、播放统计、照片、备忘录与安全弹出 |
 | 同步与恢复 | 变更预览、兼容性检查、容量估算、内容去重、分阶段事务、提交后复读校验与失败恢复 |
 | 备份 | 元数据快照或完整备份；断点续传、逐文件校验与恢复前备份 |
@@ -93,7 +94,9 @@ dotnet publish src/iTunesPod.App -c Release -r win-x64 --self-contained true -o 
 ## 安全与隐私
 
 - 音乐资料库、播放记录、设备缓存和任务日志默认保存在本机 `%LOCALAPPDATA%\iTunesPod`。
-- 应用没有遥测；RSS 和封面只会在用户主动操作时联网。音乐文件不会被上传到本项目的服务器。
+- 应用没有遥测；RSS、封面和在线音乐只会在用户主动操作时联网。音乐文件不会被上传到本项目的服务器。
+- 网易云登录通过 `https://api.leidell.cn/` 获取收藏与账号可用音频链接；GD Studio 是独立的公开搜索 / 音频来源，可以手动选择。Cookie 仅在本次运行的内存中保留，并只发送给账号 API，不会进入数据库、日志、GD 请求或音频 CDN 请求。退出登录或关闭程序会清除会话。
+- 在线下载进入电脑资料库，成功的曲目按原始顺序组成本地歌单。重复任务复用已校验的本地文件；取消后保留已完成的歌曲。无可用链接、试听片段和失败项会明确显示，可重试。iPod 写入仍使用现有兼容性检查、转换与确认预览。
 - 仓库不接受个人音乐库、设备数据库、序列号、备份、日志、签名密钥或本地构建产物。
 - `.gitignore` 已屏蔽验证输出和内部规划文档。提交前仍请检查 `git status` 和变更内容，确保没有误加个人文件。
 - 发现安全问题，请使用 GitHub 的 [Private vulnerability reporting](https://github.com/LeiDellTech/iTunesPod/security/advisories/new) 私下联系维护者，不要在公开 Issue 中贴设备数据或日志。

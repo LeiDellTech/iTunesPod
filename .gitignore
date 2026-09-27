@@ -43,6 +43,7 @@ library.db-wal
 **/device-links/
 **/snapshots/
 **/logs/
+**/online-downloads/
 **/Play Counts
 **/iTunesDB
 **/iTunesCDB
